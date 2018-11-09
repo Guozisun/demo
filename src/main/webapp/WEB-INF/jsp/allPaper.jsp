@@ -21,7 +21,7 @@
         <div class="col-md-12 column">
             <div class="page-header">
                 <h1>
-                    基于SSM框架的管理系统：简单实现增、删、改、查。
+                    基于SSM框架的管理系统：简单实现增、删、改、查1111111。
                 </h1>
             </div>
         </div>
