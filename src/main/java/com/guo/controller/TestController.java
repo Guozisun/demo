@@ -126,5 +126,8 @@ public class TestController {
         return ResponeseResult.create(null);
     }
 
-
+    @RequestMapping(value = "/cahxun")
+    public ResponeseResult caxun(){
+        return ResponeseResult.create(null);
+    }
 }
